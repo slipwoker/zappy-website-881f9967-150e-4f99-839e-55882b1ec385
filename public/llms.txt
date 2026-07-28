@@ -1,0 +1,109 @@
+# JerseyPro — Generative Engine Optimization Map
+
+> An online store specializing in football jerseys from all leagues and types worldwide, with an additional selection of basketball jerseys. The store targets sports fans and collectors who want authentic or replica jerseys from their favorite teams. The product range is broad, covering multiple sports leagues globally, making it a one-stop-shop for sports apparel enthusiasts.
+
+---
+
+## Pages
+
+### בית
+https://jerseypro-881f9967.zappy5.app
+חנות הג׳רזים המובילה עם חולצות כדורגל מכל הליגות בעולם ומבחר חולצות כדורסל NBA לאוהדים. איכות, זמינות ומחירים שווים לכל כיס. הצטרף עכשיו למועדון האלופים!
+
+### אודות
+https://jerseypro-881f9967.zappy5.app/about
+הכירו את JerseyPro: הצוות שהפך אהבת כדורגל וכדורסל לחנות אונליין מובילה. אנו מביאים אליכם חולצות ליגת האלופות לרכישה ופריטי אספנות ישר ממגרשי העולם. בואו להיות חלק מהמשפחה!
+
+### מדריך ג'רזי
+https://jerseypro-881f9967.zappy5.app/jersey-guide
+מדריך הג&#39;רזי המקיף שיהפוך גם אתכם למומחים: טיפים להתאמת מידה, זיהוי חולצות ליגת העל מקוריות, וסודות סטייל שלא הכרתם. היכנסו ושדרגו את הארון עכשיו!
+
+### שאלות נפוצות
+https://jerseypro-881f9967.zappy5.app/faq
+משלוחים, החזרות, איכות הדפסה – כל מה שרציתם לדעת על חולצות כדורסל NBA לאוהדים ועוד, במקום אחד. אל תישארו עם סימני שאלה, קבלו מענה מהיר ומקצועי עוד היום!
+
+### צור קשר
+https://jerseypro-881f9967.zappy5.app/contact
+צריכים עזרה במציאת חולצות ליגת האלופות לרכישה? רוצים המלצה אישית? צוות JerseyPro כאן לכל שאלה או בקשה. השאירו פרטים ונחזור אליכם בזריזות של חלוץ!
+
+### Products
+https://jerseypro-881f9967.zappy5.app/products
+המוצרים שלנו - JerseyPro
+
+### Cart
+https://jerseypro-881f9967.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://jerseypro-881f9967.zappy5.app/checkout
+תשלום
+
+### Login
+https://jerseypro-881f9967.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://jerseypro-881f9967.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://jerseypro-881f9967.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://jerseypro-881f9967.zappy5.app/product/:slug
+פרטי המוצר - JerseyPro
+
+### Category
+https://jerseypro-881f9967.zappy5.app/category/:slug
+מוצרים - JerseyPro
+
+### תודה שפניתם אלינו
+https://jerseypro-881f9967.zappy5.app/thank-you
+JerseyPro - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://jerseypro-881f9967.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jerseypro-881f9967.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jerseypro-881f9967.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About JerseyPro
+An online store specializing in football jerseys from all leagues and types worldwide, with an additional selection of basketball jerseys. The store targets sports fans and collectors who want authentic or replica jerseys from their favorite teams. The product range is broad, covering multiple sports leagues globally, making it a one-stop-shop for sports apparel enthusiasts.
+
+## Target Audience
+- אוהדי כדורגל וכדורסל
+- משתתפי ספורט צעירים
+- הורים לקבוצות ספורט
+- אוהדי ספורט בינלאומיים
+
+## Industry
+E-commerce / Sports Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jerseypro-881f9967.zappy5.app/sitemap.xml
+- Robots: https://jerseypro-881f9967.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jerseypro-881f9967.zappy5.app/llms-full.txt
+- Products (JSON): https://jerseypro-881f9967.zappy5.app/products.json
+- Products (Google Merchant RSS): https://jerseypro-881f9967.zappy5.app/product-feed.xml
