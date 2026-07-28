@@ -2,13 +2,13 @@
 
 An online store specializing in football jerseys from all leagues and types worldwide, with an additional selection of basketball jerseys. The store targets sports fans and collectors who want authentic or replica jerseys from their favorite teams. The product range is broad, covering multiple sports leagues globally, making it a one-stop-shop for sports apparel enthusiasts.
 
-Source: https://jerseypro-881f9967.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את הג׳רזי המושלם לכל משחק — JerseyPro
 
-URL: https://jerseypro-881f9967.zappy5.app
+URL: https://example.com
 Description: חנות הג׳רזים המובילה עם חולצות כדורגל מכל הליגות בעולם ומבחר חולצות כדורסל NBA לאוהדים. איכות, זמינות ומחירים שווים לכל כיס. הצטרף עכשיו למועדון האלופים!
 
 גלה את הג׳רזי המושלם לכל משחק — JerseyPro
@@ -460,7 +460,7 @@ NBA
 
 ## הסיפור שמאחורי התשוקה לספורט — JerseyPro
 
-URL: https://jerseypro-881f9967.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את JerseyPro: הצוות שהפך אהבת כדורגל וכדורסל לחנות אונליין מובילה. אנו מביאים אליכם חולצות ליגת האלופות לרכישה ופריטי אספנות ישר ממגרשי העולם. בואו להיות חלק מהמשפחה!
 
 הסיפור שמאחורי התשוקה לספורט — JerseyPro
@@ -858,7 +858,7 @@ JerseyPro נוצרה עבור אוהדים שחיפשו מקום אחד ברור
 
 ## איך לבחור ג׳רזי מנצח ב-5 שלבים — JerseyPro
 
-URL: https://jerseypro-881f9967.zappy5.app/jersey-guide
+URL: https://example.com/jersey-guide
 Description: מדריך הג&#39;רזי המקיף שיהפוך גם אתכם למומחים: טיפים להתאמת מידה, זיהוי חולצות ליגת העל מקוריות, וסודות סטייל שלא הכרתם. היכנסו ושדרגו את הארון עכשיו!
 
 איך לבחור ג׳רזי מנצח ב-5 שלבים — JerseyPro
@@ -1269,7 +1269,7 @@ Description: מדריך הג&#39;רזי המקיף שיהפוך גם אתכם ל
 
 ## כל התשובות על החולצה הבאה שלך — JerseyPro
 
-URL: https://jerseypro-881f9967.zappy5.app/faq
+URL: https://example.com/faq
 Description: משלוחים, החזרות, איכות הדפסה – כל מה שרציתם לדעת על חולצות כדורסל NBA לאוהדים ועוד, במקום אחד. אל תישארו עם סימני שאלה, קבלו מענה מהיר ומקצועי עוד היום!
 
 כל התשובות על החולצה הבאה שלך — JerseyPro
@@ -1633,7 +1633,7 @@ Description: משלוחים, החזרות, איכות הדפסה – כל מה �
 
 ## דברו איתנו, אנחנו על הקו — JerseyPro
 
-URL: https://jerseypro-881f9967.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה במציאת חולצות ליגת האלופות לרכישה? רוצים המלצה אישית? צוות JerseyPro כאן לכל שאלה או בקשה. השאירו פרטים ונחזור אליכם בזריזות של חלוץ!
 
 דברו איתנו, אנחנו על הקו — JerseyPro
@@ -1963,7 +1963,7 @@ Description: צריכים עזרה במציאת חולצות ליגת האלופ
 
 ## מוצרים
 
-URL: https://jerseypro-881f9967.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - JerseyPro
 
 מוצרים - JerseyPro
@@ -2370,7 +2370,7 @@ Description: המוצרים שלנו - JerseyPro
 
 ## עגלת קניות
 
-URL: https://jerseypro-881f9967.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - JerseyPro
@@ -2619,7 +2619,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://jerseypro-881f9967.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - JerseyPro
@@ -3054,7 +3054,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://jerseypro-881f9967.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - JerseyPro
@@ -3310,7 +3310,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://jerseypro-881f9967.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - JerseyPro
@@ -3721,7 +3721,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://jerseypro-881f9967.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - JerseyPro
@@ -3994,7 +3994,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://jerseypro-881f9967.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - JerseyPro
@@ -4296,7 +4296,7 @@ JerseyPro מחויבת לשביעות רצון לקוחותיה. מדיניות 
 
 ## פרטי המוצר
 
-URL: https://jerseypro-881f9967.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - JerseyPro
 
 פרטי המוצר - JerseyPro
@@ -4547,7 +4547,7 @@ Description: פרטי המוצר - JerseyPro
 
 ## מוצרים
 
-URL: https://jerseypro-881f9967.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - JerseyPro
 
 מוצרים - JerseyPro
@@ -4822,7 +4822,7 @@ Description: מוצרים - JerseyPro
 
 ## מדיניות פרטיות
 
-URL: https://jerseypro-881f9967.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5099,7 +5099,7 @@ JerseyPro ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 ## הצהרת נגישות
 
-URL: https://jerseypro-881f9967.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5385,7 +5385,7 @@ JerseyPro מחויבת להנגיש את השירותים לכלל הציבור.
 
 ## תנאי שימוש
 
-URL: https://jerseypro-881f9967.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5690,7 +5690,7 @@ JerseyPro מספקת E-commerce / Sports Apparel דרך האתר. השירותי
 
 ## תודה שפניתם אלינו
 
-URL: https://jerseypro-881f9967.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: JerseyPro - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
